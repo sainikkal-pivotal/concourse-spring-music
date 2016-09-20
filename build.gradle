@@ -9,8 +9,8 @@ apply plugin: 'war'
 apply plugin: 'cloudfoundry'
 
 
-group = 'com.example'
-version = '1.1.1'
+//group = 'com.example'
+//version = '1.1.1'
 
 sourceSets {
     main {
